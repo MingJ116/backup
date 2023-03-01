@@ -1,0 +1,10 @@
+
+2월 20, 2023 10:22:28.945 NEW SESSION
+2월 20, 2023 10:22:28.945 [2044:31260:0220/102228.943:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+2월 20, 2023 10:23:02.604 [3480:27740:0220/102302.603:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+2월 20, 2023 10:25:34.78 [24784:20620:0220/102534.078:ERROR:device_event_log_impl.cc(218)] [10:25:34.078] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 20, 2023 10:25:34.86 [24784:20620:0220/102534.086:ERROR:device_event_log_impl.cc(218)] [10:25:34.085] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+2월 20, 2023 10:33:05.781 NEW SESSION
+2월 20, 2023 10:33:05.781 [36372:32596:0220/103305.780:ERROR:device_event_log_impl.cc(218)] [10:33:05.780] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+2월 20, 2023 10:33:05.788 [36372:32596:0220/103305.788:ERROR:device_event_log_impl.cc(218)] [10:33:05.788] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
